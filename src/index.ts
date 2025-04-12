@@ -4,6 +4,7 @@ import diagnoseRouter from "./routes/diagnoseRouter";
 import patientRouter from "./routes/patientsRouter";
 
 const app = express();
+app.use(express.static('dist'));
 app.use(express.json());
 app.use(cors());
 
