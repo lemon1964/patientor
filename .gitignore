@@ -32,7 +32,7 @@ jspm_packages/
 
 
 # Production
-build/
+# build/
 
 # TypeScript cache
 *.tsbuildinfo
