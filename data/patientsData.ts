@@ -99,11 +99,11 @@ const data = [
   },
   {
     id: "d2773336-f723-11e9-8f0b-362b9e155667",
-    name: "Dozer",
+    name: "Seraph",
     dateOfBirth: "1986-07-09",
     ssn: "090786-122X",
     gender: Gender.Male,
-    occupation: "Advisor to the Minister of Magic",
+    occupation: "Minister of Magic",
     entries: [
       {
         id: "d811e46d-70b3-4d90-b090-4535c7cf8fb1",
